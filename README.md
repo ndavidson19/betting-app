@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This allows you to find Positive EV bets on the betting app PrizePicks (legal in California)
 
 ## Available Scripts
 
